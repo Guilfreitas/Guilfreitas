@@ -1,4 +1,4 @@
-<h1> Ola!!Eu sou o Guilherme Lucas 👋 </h1>
+<h1> Ola!!Eu sou o Guilherme Lucas, futuro Dev👋 </h1>
 
 - 🔭 Cursando Bacheralado em Engenharia de Software
 
