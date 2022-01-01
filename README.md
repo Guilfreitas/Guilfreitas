@@ -1,6 +1,6 @@
 <h1> Ola!!Eu sou o Guilherme Lucas, futuro Dev👋 </h1>
 
-- 🔭 Cursando Bacheralado em Engenharia de Software
+- 🔭 Cursando Bacharelado em Engenharia de Software
 
 
 
