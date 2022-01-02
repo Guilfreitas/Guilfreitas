@@ -1,21 +1,10 @@
-<h1> Ola!!Eu sou o Guilherme Lucas, futuro Dev👋 </h1>
+<h1> Ola!!Eu sou o Guilherme <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> </h1>
 
+### Sobre mim
 
+<div style="display: inline_block"  >
+<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 
-
-<p align="center">
-  <div>
-   <a href = "mailto:guilherme.lfreitas01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/guilherme-lucas-205b50203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5qq72Sa6TM6utUm7HsLRxQ%3D%3D target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  </p>
-
-
- <div align="center">
-  <a href="https://github.com/Guilfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilfreitas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilfreitas&layout=compact&langs_count=7&theme=algolia"/>
-</div>
   <h2>Linguagens que estou aprendendo 💻 </h2>
 
 <div style="display: inline_block"><br>
@@ -40,6 +29,12 @@
   </div>
     </a>
 </p>
+
+ <div align="center">
+  <a href="https://github.com/Guilfreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilfreitas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilfreitas&layout=compact&langs_count=7&theme=algolia"/>
+</div>
   
 
 
