@@ -1,13 +1,16 @@
 <h1> Ola!!Eu sou o Guilherme!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> </h1>
+<img align="right" width="250" height="250" style="border-radius:30px;" src="https://media.giphy.com/media/72nRya6nkX9jevGVFz/giphy.gif" />
 
 ### Sobre mim
 <p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1 semestre. </p>
+<p> - 🎯 Interesse: HTML, CSS, JavaScript, React, PHP, Python </p>
 
 
 
 ## Linguagens que estou aprendendo 💻 
 
 <div align="center"><br>
+ 
   <img align="center" alt="Rafa-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-React" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,6 +19,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Rafa-CSS" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   
 </div>
  
@@ -31,6 +35,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=https://www.linkedin.com/in/guilherme-lucas-205b50203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5qq72Sa6TM6utUm7HsLRxQ%3D%3D target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   </div>
     </a>
 </p>
@@ -43,8 +48,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilfreitas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilfreitas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+ 
+
   
-  https://media.giphy.com/media/uKH3YJDOrRwhoSydFE/giphy.gif
+ 
   
 
 
