@@ -44,6 +44,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilfreitas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
+  https://media.giphy.com/media/uKH3YJDOrRwhoSydFE/giphy.gif
+  
 
 
  
