@@ -1,4 +1,4 @@
-<h1> Ola!!Eu sou o Guilherme!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> </h1>
+<h1> Ola! Eu sou o Guilherme!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> </h1>
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://media.giphy.com/media/72nRya6nkX9jevGVFz/giphy.gif" />
 
 ### Sobre mim
