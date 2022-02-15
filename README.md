@@ -2,7 +2,6 @@
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://media.giphy.com/media/72nRya6nkX9jevGVFz/giphy.gif" />
 
 ### Sobre mim
-<p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 1 semestre. </p>
 <p> - 🎯 Interesse: HTML, CSS, JavaScript, React, PHP, Python </p>
 
 
