@@ -10,13 +10,13 @@
 
 <div align="center"><br>
  
-  <img align="center" alt="Rafa-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="gui-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-React" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="gui-React" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-HTML" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="gui-HTML" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Rafa-CSS" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gui-CSS" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   
@@ -25,7 +25,7 @@
   ## Meus contatos :iphone:
 
   <p align="center">
-    <a href="https://github.com/teteusAraujo">
+    <a href="https://github.com/Guilfreitas">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +47,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilfreitas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilfreitas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+ 
+ 
+  ![Snake animation](https://github.com/Guilfreitas/Guilfreitas/blob/output/github-contribution-grid-snake.svg)
  
 
   
